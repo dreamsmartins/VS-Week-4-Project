@@ -1,0 +1,11 @@
+Customer_ID,Income,Sales,Income_Segment,Sales_Segment
+1,142418.0,32526,High Income,High Sales
+2,63088.0,78493,Middle Income,High Sales
+3,136868.0,57198,High Income,High Sales
+4,84398.05555555556,48395,Middle Income,High Sales
+5,59811.0,29031,Lower Middle Income,High Sales
+6,134825.0,80542,High Income,High Sales
+7,75479.0,42701,Middle Income,High Sales
+8,84398.05555555556,30939,Middle Income,High Sales
+9,107369.0,54145,Upper Middle Income,High Sales
+10,137520.0,25324,High Income,High Sales
